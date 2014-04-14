@@ -20,22 +20,22 @@
   <body>
 
 <%
-/*Klas k = new Klas("K0 geel (juf Elke)","K0");
+Klas k = new Klas("K0 geel (juf Elke)","K0");
 SaleHandler.getInstance().addKlas(k);
 
-k = new Klas("K1A groen (juf Layla)","K1A");
+k = new Klas("K1 groen (juf Layla)","K1");
 SaleHandler.getInstance().addKlas(k);
 
-k = new Klas("K1B paars (juf Kaat en juf Cindy)","K1B");
+k = new Klas("K1/2 paars (juf Kaat en juf Cindy)","K1/2");
 SaleHandler.getInstance().addKlas(k);
 
 k = new Klas("K2 blauw (juf Ingrid en juf Cindy)","K2");
 SaleHandler.getInstance().addKlas(k);
 
-k = new Klas("K2/K3 roze (juf Lynn en juf Esther)","K2/K3");
+k = new Klas("K2/K3 roze (juf Elise)","K2/K3");
 SaleHandler.getInstance().addKlas(k);
 
-k = new Klas("K3 rood (juf Evi en juf Anneleen)","K3");
+k = new Klas("K3 rood (juf Evi en juf Melissa)","K3");
 SaleHandler.getInstance().addKlas(k);
 
 k = new Klas("L1A (meester Marc)","L1A");
@@ -44,23 +44,27 @@ SaleHandler.getInstance().addKlas(k);
 k = new Klas("L1B (meester Wim)","L1B");
 SaleHandler.getInstance().addKlas(k);
 
-k = new Klas("L2 (meester Leo en juf Elke)","L2");
+k = new Klas("L2A (meester Leo en juf Elke)","L2A");
 SaleHandler.getInstance().addKlas(k);
+
+k = new Klas("L2B (meester Peter)","L2B");
+SaleHandler.getInstance().addKlas(k);
+
 
 k = new Klas("L3 (meester Christophe)","L3");
 SaleHandler.getInstance().addKlas(k);
 
-k = new Klas("L4 (meester Dom en meester Peter)","L4");
+k = new Klas("L4 (meester Dom)","L4");
 SaleHandler.getInstance().addKlas(k);
 
-k = new Klas("L5 (juf An)","L5");
+k = new Klas("L5 (juf An en juf Annelies)","L5");
 SaleHandler.getInstance().addKlas(k);
 
-k = new Klas("L6 (juf Annelies en juf Leentje)","L6");
+k = new Klas("L6 (juf Leentje)","L6");
 SaleHandler.getInstance().addKlas(k);
-*/
 
-Klas k = new Klas("Zonder klas (buurtbewoners, ...)","geen");
+
+k = new Klas("Zonder klas (buurtbewoners, ...)","geen");
 SaleHandler.getInstance().addKlas(k);
 
 

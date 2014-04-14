@@ -117,7 +117,7 @@ select.error, textarea.error, input.error {
 			out.print("Tel.:");
 			out.print("</td>");
 			out.print("<td>");
-			out.print("<input type=\"text\" name=\"tel\" class=\"required\">");
+			out.print("<input type=\"text\" name=\"tel\" >");
 			out.print("</td>");
 			out.println("</tr>");
 
